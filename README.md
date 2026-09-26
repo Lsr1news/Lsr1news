@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá! Eu sou o Leonardo Santos 👋
 
-<!--
-**Lsr1news/Lsr1news** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou iniciando minha jornada no desenvolvimento de software e construindo meus primeiros projetos.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
+- 📚 Estudando **Gestão da Tecnologia da Informação**
+- 🎯 Objetivos: Aprender a programar e criar meus primeiros projetos práticos
+- 💬 Pode me chamar em: **leleufla@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias
+- **Linguagens:** Python
+- **Ferramentas:** VS Code, Git, GitHub
+
+---
+
+### 🌐 Redes
+https://www.linkedin.com/in/leonardo-santos-2055a0241/
